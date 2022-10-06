@@ -15,6 +15,13 @@
 
 ## OBJECTIVES - 
 
+* Total number of Startups
+* Total Funding Amount
+* Total number of Investors
+* Total Investment Raised
+* Top 10 Startups by Funding
+* Top 10 markets by funding
+* Top 10 Funding Round Types
 * 
 
 
