@@ -16,4 +16,18 @@
 ## SAMPLE VISUALIZATION - 
 
 
+* First I have Cleaned the Null values and duplicates by using Tableau data interpreter option.
+
+* Secondly I have checked the datatypes of all columns of the dataset whether it is correct or not.
+
+* Then I have used the filter option which is placed in the top right corner to filter the data of founded year by selecting the range of values. 
+
+
+
+
+
+
+
+ * #### Tableau Public Link 🔗 of the Visualization for Task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/cookiessales/Dashboard1]
+
 
