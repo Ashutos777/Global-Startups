@@ -34,6 +34,6 @@
 
 
 
- * #### Tableau Public Link 🔗 of the Visualization for Task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/cookiessales/Dashboard1]
+ * #### Tableau Public Link 🔗 of the Visualization for Task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/GlobalStartupsDashboard/startups]
 
 
