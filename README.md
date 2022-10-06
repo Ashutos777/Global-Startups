@@ -13,7 +13,7 @@
   ![download](https://user-images.githubusercontent.com/111995863/194266789-c26badc9-68db-4735-a31c-7e98749ab3c6.jpg)
             ![download (7)](https://user-images.githubusercontent.com/111995863/194362147-1ea1c411-8eb1-4900-852d-2b2a10cdf5b1.png)
 
- * I have used PowerPoint to design the theme and layout of the Global Startups Dashboard.
+ * I have used PowerPoint to design the theme and template of the Global Startups Dashboard.
 
 ## OBJECTIVES - 
 
