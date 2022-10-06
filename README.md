@@ -30,10 +30,11 @@
 
 ![Screenshot 2022-10-06 104940](https://user-images.githubusercontent.com/111995863/194276657-67d5822b-4df3-4963-a2f5-4b904db4db2e.png)
 
+![Screenshot 2022-10-06 150412](https://user-images.githubusercontent.com/111995863/194279774-5a65f8e7-8a99-4fe8-b9a9-f27ca8749bda.png)
 
 
 
 
- * #### Tableau Public Link 🔗 of the Visualization for Task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/GlobalStartupsDashboard/startups]
+ * #### Tableau Public Link 🔗 for the Global Startups Dashboard - [https://public.tableau.com/app/profile/ashutos3246/viz/GlobalStartupsDashboard/startups]
 
 
