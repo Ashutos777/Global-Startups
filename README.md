@@ -11,7 +11,8 @@
 ## TOOLS USED - 
 
   ![download](https://user-images.githubusercontent.com/111995863/194266789-c26badc9-68db-4735-a31c-7e98749ab3c6.jpg)
-* i have used PowerPoint to design the theme of the Global Startups Dashboard
+
+ * I have used PowerPoint to design the theme of the Global Startups Dashboard.
 
 ## OBJECTIVES - 
 
