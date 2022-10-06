@@ -1,1 +1,1 @@
-# Global-Startups
+# Global Startups
