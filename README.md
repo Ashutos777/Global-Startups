@@ -17,14 +17,14 @@
 
 ## OBJECTIVES - 
 
-* Total number of Startups
-* Total Funding Amount
-* Total number of Investors
-* Total Investment Raised
-* Top 10 Startups by Funding
-* Top 10 markets by funding
-* Top 10 Funding Round Types
-* To find the Startup Status means total number of Startups, how many startups operating, acquired, closed and un-traced 
+* Total number of Startups.
+* Total Funding Amount.
+* Total number of Investors.
+* Total Investment Raised.
+* Top 10 Startups by Funding.
+* Top 10 markets by funding.
+* Top 10 Funding Round Types.
+* To find the Startup Status means total number of Startups, how many startups operating, acquired, closed and un-traced .
 
 
 ## SAMPLE VISUALIZATION - 
@@ -61,6 +61,7 @@
 
 
 
- * #### Tableau Public Link 🔗 for the Global Startups Dashboard - [https://public.tableau.com/app/profile/ashutos4987/viz/GlobalStartupsDashboard_16651476403860/startups]
+ * #### Tableau Public Link 🔗 for the Global Startups Dashboard- 
+ [https://public.tableau.com/app/profile/ashutos4987/viz/GlobalStartupsDashboard_16651476403860/startups]
 
 
