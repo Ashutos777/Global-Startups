@@ -24,7 +24,7 @@
 * Top 10 Startups by Funding
 * Top 10 markets by funding
 * Top 10 Funding Round Types
-* To find the Startup Status means total number of 
+* To find the Startup Status means total number of Startups, how many startups operating, acquired, closed and un-traced 
 
 
 ## SAMPLE VISUALIZATION - 
