@@ -55,11 +55,11 @@
 
 ![Screenshot 2022-10-06 193532](https://user-images.githubusercontent.com/111995863/194344904-f953a594-2c15-431a-99ec-e735cfc4dc4b.png)
 
-![Screenshot 2022-10-06 150412](https://user-images.githubusercontent.com/111995863/194344942-e0d5eb66-bb42-4189-8f4d-faf40f299e59.png)
 
 
 
 
- * #### Tableau Public Link 🔗 for the Global Startups Dashboard - [https://public.tableau.com/app/profile/ashutos3246/viz/GlobalStartupsDashboard/startups]
+
+ * #### Tableau Public Link 🔗 for the Global Startups Dashboard - [https://public.tableau.com/app/profile/ashutos4987/viz/GlobalStartupsDashboard_16651476403860/startups]
 
 
